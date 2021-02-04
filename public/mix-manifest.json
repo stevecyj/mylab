@@ -1,6 +1,8 @@
 {
     "/js/app.js": "/js/app.js",
     "/js/manifest.js": "/js/manifest.js",
+    "/js/chunk/Test1.js?v=09470cb11b7fdac71caf": "/js/chunk/Test1.js?v=09470cb11b7fdac71caf",
+    "/js/chunk/Test2.js?v=3754d2f1cd502b0c5c19": "/js/chunk/Test2.js?v=3754d2f1cd502b0c5c19",
     "/css/app.css": "/css/app.css",
     "/js/vendor.js": "/js/vendor.js"
 }
