@@ -2,18 +2,18 @@
     <div>
         <!-- <Calculator /> -->
         <Menu />
-        <router-view/>
+        <!-- <router-view /> -->
     </div>
 </template>
 
 <script>
 // import Calculator from '../components/Calculator.vue'
-import Menu from '../components/Menu.vue'
+import Menu from "../components/Menu.vue";
 export default {
-    // name: 'app',
+    name: "app",
     components: {
         // Calculator,
-        Menu,
+        Menu
     }
 };
 </script>
